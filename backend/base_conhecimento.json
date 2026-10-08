@@ -1,0 +1,382 @@
+{
+  "empresa": "Amoda — Moda Feminina Sustentável & Consultoria Eco-Chic",
+  "descricao": "A Amoda é uma marca pioneira de moda feminina sustentável, unindo sofisticação, conforto e responsabilidade socioambiental. Trabalhamos exclusivamente com tecidos nobres e ecológicos (linho puro, algodão orgânico, viscose de reflorestamento e seda agroecológica) em um modelo de slow fashion com produção ética e rastreável. Nossa consultora virtual Sofia oferece consultoria de estilo personalizada, recomendações de caimento, orientações sobre cuidados ecológicos e suporte completo a pedidos.",
+  "faq_rapido": [
+    {
+      "pergunta": "Como rastrear meu pedido sustentável?",
+      "acao": "Dúvidas sobre pedidos",
+      "descricao": "Digite o código do pedido (ex: PED-1048) para acompanhar a entrega com compensação de carbono."
+    },
+    {
+      "pergunta": "Qual a política de trocas e moda circular?",
+      "acao": "Trocas e devoluções",
+      "descricao": "Primeira troca 100% grátis em até 30 dias e programa de logística reversa e circular."
+    },
+    {
+      "pergunta": "Quais são as formas de pagamento e frete ecológico?",
+      "acao": "Pagamento e frete",
+      "descricao": "5% de desconto no Pix, até 6x sem juros e Frete Neutro em Carbono Grátis acima de R$ 299."
+    },
+    {
+      "pergunta": "Como escolher o tamanho ideal na tabela?",
+      "acao": "Encontrar meu tamanho",
+      "descricao": "Guia de medidas detalhado com modelagem consciente do PP (36) ao GG (44)."
+    }
+  ],
+  "topicos_suporte": [
+    {
+      "id": "sustentabilidade_producao_etica",
+      "titulo": "Sustentabilidade, Matérias-Primas & Produção Ética",
+      "perguntas_chave": [
+        "Por que a Amoda é sustentável?",
+        "Quais tecidos sustentáveis vocês usam?",
+        "Como é a produção das roupas?",
+        "As roupas são ecológicas?",
+        "O que é slow fashion na Amoda?"
+      ],
+      "resposta": "### 🌿 Nosso Compromisso com a Sustentabilidade & Slow Fashion\n\nNa **Amoda**, cada peça é desenhada para durar anos no seu guarda-roupa, respeitando as pessoas e a natureza:\n\n* 🧵 **Fibras 100% Naturais & Certificadas:** Utilizamos **Linho Puro**, **Algodão Orgânico Certificado**, **Viscose de Manejo Sustentável** e **Chiffon de Toque Sedoso**.\n* 🎨 **Tingimento de Baixo Impacto:** Pigmentos com reaproveitamento de água e livres de metais pesados.\n* 👩‍🏭 **Produção Ética & Justa:** Apoio a costureiras locais com remuneração justa e ambiente de trabalho acolhedor.\n* 📦 **Embalagens Zero Plástico:** Caixas de papelão reciclado e saquinhos protetores biodegradáveis de fécula de mandioca."
+    },
+    {
+      "id": "trocas_devolucoes_circular",
+      "titulo": "Trocas, Devoluções & Moda Circular",
+      "perguntas_chave": [
+        "Como funciona a troca?",
+        "Posso devolver se não servir?",
+        "Qual o prazo para troca?",
+        "A primeira troca é grátis?",
+        "Como funciona o programa de moda circular?"
+      ],
+      "resposta": "### 🔄 Política de Trocas, Devoluções & Moda Circular **Amoda**\n\nQueremos que sua experiência com a moda consciente seja tranquila e sem atritos:\n\n* ✨ **Primeira Troca 100% Grátis:** Até **30 dias corridos** após o recebimento para solicitar a troca por outro tamanho ou modelo.\n* 💰 **Direito de Devolução:** Até **7 dias corridos** para devolução com estorno total do valor pago.\n* ♻️ **Programa Ciclo Amoda (Moda Circular):** Devolva uma peça Amoda usada em bom estado e ganhe **15% de desconto** na sua próxima compra consciente.\n* 🏷️ **Condições:** A peça deve estar com as etiquetas afixadas e sem sinais de uso ou lavagem."
+    },
+    {
+      "id": "frete_neutro_carbono",
+      "titulo": "Frete Neutro em Carbono & Prazos de Entrega",
+      "perguntas_chave": [
+        "Qual o prazo de entrega?",
+        "Tem frete grátis?",
+        "Como funciona o frete neutro?",
+        "Entrega expressa",
+        "Prazos de envio"
+      ],
+      "resposta": "### 🚚 Prazos de Envio & Frete com Compensação de Carbono\n\nTodas as entregas da **Amoda** têm 100% das emissões de CO₂ neutralizadas através de projetos de reflorestamento:\n\n* 🎁 **Frete Grátis:** Para todo o Brasil em compras acima de **R$ 299,00**.\n* ⚡ **Entrega Expressa SP Capital:** Pedidos aprovados até às 12h chegam no mesmo dia ou no dia útil seguinte com veículos elétricos parceiros.\n* 📦 **Capitais do Brasil:** 1 a 3 dias úteis.\n* 🏡 **Interior e Demais Cidades:** 3 a 7 dias úteis via Sedex / Transportadora parceira.\n* 📍 **Rastreamento:** Código enviado por e-mail e WhatsApp assim que a encomenda for postada."
+    },
+    {
+      "id": "pagamento_desconto_verde",
+      "titulo": "Formas de Pagamento & Desconto Verde",
+      "perguntas_chave": [
+        "Quais as formas de pagamento?",
+        "Aceita Pix?",
+        "Parcela em quantas vezes?",
+        "Tem cupom de desconto?",
+        "Aceita cartão de crédito?"
+      ],
+      "resposta": "### 💳 Formas de Pagamento & Benefícios Exclusivos\n\n* 💠 **Pix (Desconto Verde):** **5% de desconto imediato** e compensação instantânea.\n* 💳 **Cartão de Crédito:** Em até **6x sem juros** (ou em até 10x) em todas as bandeiras.\n* 📄 **Boleto Bancário:** À vista com prazo de compensação em até 48 horas.\n* 🎟️ **Cupom de Boas-Vindas Sustentável:** Use o cupom **MODAVERDE10** para garantir **10% OFF** no seu primeiro pedido!"
+    },
+    {
+      "id": "guia_tamanhos_modelagem_consciente",
+      "titulo": "Guia de Medidas & Caimento Consciente",
+      "perguntas_chave": [
+        "Como escolher meu tamanho?",
+        "Qual a tabela de medidas?",
+        "Qual tamanho veste 38 ou 40?",
+        "Como tirar minhas medidas?",
+        "Qual o caimento das roupas?"
+      ],
+      "resposta": "### 📏 Guia de Medidas & Caimento Consciente **Amoda**\n\nModelagens projetadas para abraçar o corpo com elegância e liberdade de movimento:\n\n* 🔹 **PP (veste 36):** Busto 82-86 cm | Cintura 64-68 cm | Quadril 90-94 cm\n* 🔹 **P (veste 38):** Busto 86-90 cm | Cintura 68-72 cm | Quadril 94-98 cm\n* 🔹 **M (veste 40):** Busto 90-96 cm | Cintura 72-78 cm | Quadril 98-104 cm\n* 🔹 **G (veste 42):** Busto 96-102 cm | Cintura 78-84 cm | Quadril 104-110 cm\n* 🔹 **GG (veste 44):** Busto 102-108 cm | Cintura 84-90 cm | Quadril 110-116 cm\n\n💡 **Dica da Sofia:** Fibras naturais como o **linho** e o **algodão orgânico** laceiam suavemente e se moldam ao seu corpo com o uso!"
+    },
+    {
+      "id": "cuidados_longevidade_fibras_naturais",
+      "titulo": "Cuidados & Longevidade de Tecidos Naturais",
+      "perguntas_chave": [
+        "Como lavar roupas de linho e algodão orgânico?",
+        "Como cuidar de roupas sustentáveis?",
+        "Pode lavar na máquina?",
+        "Pode passar linho e seda?",
+        "Dicas de conservação ecológica"
+      ],
+      "resposta": "### 🧺 Cuidados Ecológicos para Maior Durabilidade\n\nPeças de alta qualidade duram a vida toda quando cuidadas com carinho:\n\n* 🌿 **Lavagem Consciente:** Lave com água fria e sabão biodegradável ou neutro para preservar as fibras e economizar energia.\n* 👗 **Secagem Natural:** Seque no varal à sombra em cabide anatômico. Evite secadoras elétricas de alta temperatura.\n* ♨️ **Passadoria:** Passe com a peça levemente úmida com ferro em temperatura média ou utilize vaporizador."
+    }
+  ],
+  "topicos": [
+    {
+      "id": "sobre_amoda",
+      "perguntas_chave": [
+        "Quem é a Amoda?",
+        "O que é a Amoda?",
+        "Fale sobre a loja Amoda",
+        "Qual é a proposta da loja?",
+        "História da Amoda",
+        "A Amoda é sustentável?"
+      ],
+      "resposta": "### 🌿 Bem-vinda à **Amoda** — Moda Sustentável & Elegante!\n\nA **Amoda** nasceu com o propósito de transformar a relação com o vestir através do *slow fashion*, unindo elegância atemporal, matérias-primas de baixo impacto ecológico e valorização do trabalho ético.\n\nNossas peças são produzidas com linho puro, algodão orgânico e viscose sustentável, criadas para acompanhar você em momentos especiais e no dia a dia profissional com sofisticação.\n\n✨ Eu sou a **Sofia**, sua consultora virtual de moda sustentável. Como posso te inspirar hoje?"
+    },
+    {
+      "id": "ver_produtos",
+      "perguntas_chave": [
+        "Ver produtos",
+        "Quais roupas vocês vendem?",
+        "Quais são os produtos disponíveis?",
+        "Mostre o catálogo",
+        "Quais peças vocês têm na loja?",
+        "Roupas disponíveis"
+      ],
+      "resposta": "### 👗 Catálogo Consciente de Peças **Amoda**\n\nConfira as peças ecológicas em destaque em nossa coleção:\n\n1. 🌸 **Vestido Midi Floral Aurora:** R$ 289,90 (PP ao G) — Crepe de seda fluida com estampa botânica.\n2. 💜 **Blazer Alfaiataria Paris:** R$ 399,90 (PP ao GG) — Alfaiataria estruturada em linho e viscose sustentável.\n3. 👖 **Calça Wide Leg Alfaiataria Elegance:** R$ 249,90 (Tam 36 ao 44) — Viscose de reflorestamento com linho nobre.\n4. 🤍 **Blusa Cropped Seda Lumina:** R$ 179,90 (PP ao G) — Seda agroecológica acetinada.\n5. 🌿 **Conjunto Linho Puro Riviera:** R$ 349,90 (P ao G) — Camisa + Short em 100% Linho Puro amaciado.\n6. 💎 **Vestido Longo Fluidity Festa:** R$ 489,90 (P ao GG) — Chiffon sustentável com fenda lateral elegante.\n7. ✨ **Saia Midi Plissada Soleil:** R$ 219,90 (P ao G) — Tule plissado reciclado com caimento leve.\n8. 👠 **Sandália Salto Bloco Couro:** R$ 269,90 (Tam 34 ao 39) — Couro de curtume com certificação socioambiental.\n9. 👜 **Bolsa Baguette Amoda:** R$ 199,90 (Único) — Couro vegetal sintético sustentável.\n\nQual dessas peças você gostaria de conhecer em detalhes?"
+    },
+    {
+      "id": "novidades",
+      "perguntas_chave": [
+        "Novidades",
+        "Quais são os lançamentos?",
+        "O que tem de novo na loja?",
+        "Coleção nova",
+        "Lançamentos da Amoda"
+      ],
+      "resposta": "### 🌟 Novidades & Lançamentos da Coleção Sustentável **Amoda**\n\nNossa nova coleção celebra tons nobres e tecidos ecológicos:\n\n* 🌿 **Conjunto Linho Riviera (100% Linho Puro):** R$ 349,90 — Frescor e elegância para dias quentes.\n* 💜 **Blazer Alfaiataria Paris (Vinho Marsala & Lavanda):** R$ 399,90 — Alfaiataria consciente com caimento perfeito.\n* 🌸 **Vestido Midi Floral Aurora:** R$ 289,90 — Leveza floral e mangas delicadas.\n* 💎 **Vestido Longo Fluidity Festa (Violeta Imperial):** R$ 489,90 — Sofisticação para casamentos e formaturas.\n\n> 🎁 **Dica da Sofia:** Ganhe **5% de desconto** no Pix com Desconto Verde e **Frete Grátis** acima de R$ 299!"
+    },
+    {
+      "id": "encontrar_tamanho",
+      "perguntas_chave": [
+        "Encontrar meu tamanho",
+        "Como saber meu tamanho?",
+        "Qual é a tabela de medidas?",
+        "Como escolher o tamanho certo?",
+        "Qual tamanho veste 38?",
+        "Qual tamanho veste 40?",
+        "Qual tamanho veste 42?",
+        "Guia de tamanhos"
+      ],
+      "resposta": "### 📏 Guia de Medidas & Caimento Consciente **Amoda**\n\nPara garantir que sua peça fique sob medida e evitar trocas desnecessárias:\n\n* 🔹 **PP (36):** Busto 82-86 cm | Cintura 64-68 cm | Quadril 90-94 cm\n* 🔹 **P (38):** Busto 86-90 cm | Cintura 68-72 cm | Quadril 94-98 cm\n* 🔹 **M (40):** Busto 90-96 cm | Cintura 72-78 cm | Quadril 98-104 cm\n* 🔹 **G (42):** Busto 96-102 cm | Cintura 78-84 cm | Quadril 104-110 cm\n* 🔹 **GG (44):** Busto 102-108 cm | Cintura 84-90 cm | Quadril 110-116 cm\n\n💡 Se você estiver entre dois tamanhos em peças de **alfaiataria**, sugerimos o tamanho maior para máximo conforto!"
+    },
+    {
+      "id": "montar_look",
+      "perguntas_chave": [
+        "Montar um look",
+        "Como combinar as roupas?",
+        "Sugestão de look",
+        "O que vestir para casamento?",
+        "O que vestir para trabalhar?",
+        "Look para festa",
+        "Look sustentável",
+        "Sugestões de combinação"
+      ],
+      "resposta": "### 👗 Consultoria de Estilo Sustentável **Amoda**\n\nLooks versáteis para criar um armário cápsula inteligente e elegante:\n\n#### 💼 1. Look Office & Poderoso (Trabalho Consciente):\n* **Blazer Alfaiataria Paris** + **Blusa Seda Lumina** + **Calça Wide Leg Elegance** + **Sandália Salto Bloco**.\n* *Estilo:* Profissional, contemporâneo e sofisticado.\n\n#### 💍 2. Look Casamento de Dia / Madrinha:\n* **Vestido Longo Fluidity Festa (Violeta Imperial)** + **Bolsa Baguette** + sandália metalizada.\n* *Estilo:* Fluidez botânica e presença inesquecível.\n\n#### 🌿 3. Look Fim de Semana & Brunch Solar:\n* **Conjunto Linho Riviera (Cru Natural)** ou **Vestido Midi Floral Aurora** + rasteira.\n* *Estilo:* Conforto puro em fibras 100% naturais.\n\nQual é a sua ocasião especial? Me conte que monto a combinação ideal!"
+    },
+    {
+      "id": "pedidos_duvidas",
+      "perguntas_chave": [
+        "Dúvidas sobre pedidos",
+        "Como rastrear meu pedido?",
+        "Onde está meu pedido?",
+        "Consultar pedido",
+        "Status da minha compra",
+        "Rastreamento de entrega"
+      ],
+      "resposta": "### 📦 Rastreio de Pedidos Sustentáveis\n\nPara consultar sua compra, digite o número do pedido aqui no chat (ex: **PED-1048** ou **PED-2099**) ou acesse **Meus Pedidos** no menu superior!\n\n#### 🚚 Prazos de Entrega:\n* **SP Capital:** 1 a 2 dias úteis com entrega expressa.\n* **Capitais:** 1 a 3 dias úteis com compensação de carbono.\n* **Interior:** 3 a 7 dias úteis via Sedex parceiro."
+    },
+    {
+      "id": "pagamento_frete",
+      "perguntas_chave": [
+        "Quais as formas de pagamento?",
+        "Aceita Pix?",
+        "Parcela em quantas vezes?",
+        "Tem frete grátis?",
+        "Como funciona o frete ecológico?"
+      ],
+      "resposta": "### 💳 Pagamento & Frete Consciente na **Amoda**\n\n* **Pix:** **5% de desconto** imediato e aprovação instantânea.\n* **Cartão de Crédito:** Em até **6x sem juros** (ou até 10x).\n* **Boleto Bancário:** À vista com prazo de 48h para compensação.\n* 🎁 **Frete Grátis:** Para todo o Brasil em compras acima de **R$ 299,00**."
+    },
+    {
+      "id": "atendimento_humano",
+      "perguntas_chave": [
+        "Falar com atendente",
+        "Falar com consultora humana",
+        "Atendimento humano",
+        "Suporte WhatsApp",
+        "Telefone da Amoda",
+        "Contato da loja"
+      ],
+      "resposta": "### 👩‍💼 Atendimento Humano & Consultoria de Estilo\n\nQuer falar diretamente com nossa equipe de consultoras de estilo sustentável?\n\n* 📱 **WhatsApp Oficial:** [(11) 98765-4321](https://wa.me/5511987654321)\n* 📧 **E-mail:** [sac@amoda.com.br](mailto:sac@amoda.com.br)\n* ⏰ **Horário:** Segunda a Sábado, das **09h às 20h**.\n* 📍 **Showroom:** Av. Paulista, 1000 - São Paulo/SP."
+    }
+  ],
+  "produtos": [
+    {
+      "id": "PROD-001",
+      "nome": "Vestido Midi Floral Aurora",
+      "categoria": "Vestidos",
+      "preco": 289.90,
+      "preco_formatado": "R$ 289,90",
+      "tamanhos": ["PP", "P", "M", "G"],
+      "cores": ["Lilás Floral", "Off-White", "Rosa Claro"],
+      "tecido": "Crepe de Seda Fluida com Estampa Botânica",
+      "ocasiao": ["Casual Chic", "Almoço de Domingo", "Casamento de Dia", "Brunch"],
+      "descricao": "Vestido midi com caimento fluido, decote em V sutil e estampa floral delicada em tons lilás. Possui mangas bufantes suaves e cinto de mesmo tecido.",
+      "disponivel": true,
+      "novidade": true,
+      "imagem": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "PROD-002",
+      "nome": "Blazer Alfaiataria Paris",
+      "categoria": "Alfaiataria",
+      "preco": 399.90,
+      "preco_formatado": "R$ 399,90",
+      "tamanhos": ["PP", "P", "M", "G", "GG"],
+      "cores": ["Vinho Marsala", "Lavanda", "Branco Neve", "Preto Clássico"],
+      "tecido": "Alfaiataria em Linho Nobre e Viscose Sustentável",
+      "ocasiao": ["Trabalho / Office", "Reuniões", "Jantar Elegante", "Eventos"],
+      "descricao": "Blazer alongado com corte impecável, botões forrados e ombreiras discretas que valorizam a silhueta. Perfeito para compor tanto looks formais quanto modernos com jeans.",
+      "disponivel": true,
+      "novidade": true,
+      "imagem": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "PROD-003",
+      "nome": "Calça Wide Leg Alfaiataria Elegance",
+      "categoria": "Calças",
+      "preco": 249.90,
+      "preco_formatado": "R$ 249,90",
+      "tamanhos": ["36", "38", "40", "42", "44"],
+      "cores": ["Bege Areia", "Off-White", "Preto", "Vinho"],
+      "tecido": "Viscose de Reflorestamento com Linho Nobre",
+      "ocasiao": ["Trabalho", "Passeios", "Eventos Sociais"],
+      "descricao": "Calça pantalona/wide leg de cintura alta com pregas frontais e bolsos laterais faca. Proporciona elegância imediata e conforto absoluto.",
+      "disponivel": true,
+      "novidade": false,
+      "imagem": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "PROD-004",
+      "nome": "Blusa Cropped Seda Lumina",
+      "categoria": "Blusas",
+      "preco": 179.90,
+      "preco_formatado": "R$ 179,90",
+      "tamanhos": ["PP", "P", "M", "G"],
+      "cores": ["Branco Pérola", "Champanhe", "Rosé Acetinado"],
+      "tecido": "Seda Agroecológica Acetinada Premium",
+      "ocasiao": ["Encontro Romântico", "Balada", "Jantar", "Happy Hour"],
+      "descricao": "Cropped com drapeado elegante no busto e amarração nas costas. O brilho sutil da seda eleva qualquer combinação com saias ou calças de alfaiataria.",
+      "disponivel": true,
+      "novidade": false,
+      "imagem": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "PROD-005",
+      "nome": "Conjunto Linho Puro Riviera (Camisa + Short)",
+      "categoria": "Conjuntos",
+      "preco": 349.90,
+      "preco_formatado": "R$ 349,90",
+      "tamanhos": ["P", "M", "G"],
+      "cores": ["Cru Natural", "Vinho Suave", "Terracota"],
+      "tecido": "100% Linho Puro Amaciado com Fibras Europeias",
+      "ocasiao": ["Férias / Praia", "Fim de Semana", "Almoço ao Ar Livre"],
+      "descricao": "Conjunto composto por camisa oversized de mangas longas e short de cós elástico com cordão. Leve, fresco e ultra charmoso.",
+      "disponivel": true,
+      "novidade": true,
+      "imagem": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "PROD-006",
+      "nome": "Vestido Longo Fluidity Festa",
+      "categoria": "Vestidos",
+      "preco": 489.90,
+      "preco_formatado": "R$ 489,90",
+      "tamanhos": ["P", "M", "G", "GG"],
+      "cores": ["Vinho Imperial", "Magenta Nobre", "Verde Esmeralda"],
+      "tecido": "Chiffon Toque de Seda com Fenda Lateral",
+      "ocasiao": ["Casamento / Madrinha", "Formatura", "Gala", "Festas Noturnas"],
+      "descricao": "Vestido de festa glamouroso com decote ombro a ombro e saia esvoaçante. Um clássico que garante presença marcante e fotos inesquecíveis.",
+      "disponivel": true,
+      "novidade": true,
+      "imagem": "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "PROD-007",
+      "nome": "Saia Midi Plissada Soleil",
+      "categoria": "Saias",
+      "preco": 219.90,
+      "preco_formatado": "R$ 219,90",
+      "tamanhos": ["P", "M", "G"],
+      "cores": ["Dourado Suave", "Vinho Marsala", "Preto"],
+      "tecido": "Tule Plissado com Fios de Lurex",
+      "ocasiao": ["Festas", "Jantares", "Look Romântico"],
+      "descricao": "Saia plissada com brilho sutil e elástico acetinado na cintura. Combina perfeitamente com croppeds, t-shirts básicas ou blazers.",
+      "disponivel": true,
+      "novidade": false,
+      "imagem": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "PROD-008",
+      "nome": "Sandália Salto Bloco Couro Elegance",
+      "categoria": "Calçados",
+      "preco": 269.90,
+      "preco_formatado": "R$ 269,90",
+      "tamanhos": ["34", "35", "36", "37", "38", "39"],
+      "cores": ["Nude Acetinado", "Vinho", "Branco Off"],
+      "tecido": "Couro de Curtume Certificado com Palmilha Confort",
+      "ocasiao": ["Festas", "Trabalho", "Casamento"],
+      "descricao": "Sandália de tiras finas e salto bloco de 6,5 cm. Oferece o equilíbrio perfeito entre elegância nas alturas e conforto para o dia todo.",
+      "disponivel": true,
+      "novidade": false,
+      "imagem": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=600&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "PROD-009",
+      "nome": "Bolsa Baguette Couro Sintético Amoda",
+      "categoria": "Acessórios",
+      "preco": 199.90,
+      "preco_formatado": "R$ 199,90",
+      "tamanhos": ["Tamanho Único"],
+      "cores": ["Off-White", "Vinho Marsala", "Caramelo"],
+      "tecido": "PU Ecológico Premium com Ferragens Douradas",
+      "ocasiao": ["Dia a dia", "Eventos", "Passeios"],
+      "descricao": "Bolsa modelo baguette com alça de ombro e opção transversal com corrente dourada. Espaço ideal para celular, carteira e maquiagem.",
+      "disponivel": true,
+      "novidade": false,
+      "imagem": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&auto=format&fit=crop&q=80"
+    }
+  ],
+  "pedidos_exemplo": {
+    "PED-1048": {
+      "id": "PED-1048",
+      "cliente": "Fernanda Lima",
+      "data": "16/09/2026",
+      "itens": ["Vestido Midi Floral Aurora (Tamanho M, Lilás)"],
+      "total": "R$ 289,90",
+      "status": "Saiu para entrega com transporte ecológico",
+      "rastreio": "BR892173009BR",
+      "transportadora": "Sedex Express Eco",
+      "previsao_entrega": "Hoje até às 18h"
+    },
+    "PED-2099": {
+      "id": "PED-2099",
+      "cliente": "Camila Souza",
+      "data": "15/09/2026",
+      "itens": [
+        "Blazer Alfaiataria Paris (Tamanho P, Vinho Marsala)",
+        "Calça Wide Leg Alfaiataria (Tamanho 38, Bege Areia)"
+      ],
+      "total": "R$ 649,80",
+      "status": "Pedido faturado e em separação em embalagem biodegradável",
+      "rastreio": "AM998231002BR",
+      "transportadora": "Loggi Express",
+      "previsao_entrega": "Em até 2 dias úteis"
+    },
+    "PED-3050": {
+      "id": "PED-3050",
+      "cliente": "Mariana Ribeiro",
+      "data": "10/09/2026",
+      "itens": ["Conjunto Linho Puro Riviera (Tamanho G, Cru Natural)"],
+      "total": "R$ 349,90",
+      "status": "Entregue com sucesso",
+      "rastreio": "BR112233445BR",
+      "transportadora": "Total Express",
+      "previsao_entrega": "Entregue em 14/09/2026"
+    }
+  },
+  "guia_medidas": {
+    "PP": "Tamanho 36 • Busto: 82-86 cm | Cintura: 64-68 cm | Quadril: 90-94 cm",
+    "P": "Tamanho 38 • Busto: 86-90 cm | Cintura: 68-72 cm | Quadril: 94-98 cm",
+    "M": "Tamanho 40 • Busto: 90-96 cm | Cintura: 72-78 cm | Quadril: 98-104 cm",
+    "G": "Tamanho 42 • Busto: 96-102 cm | Cintura: 78-84 cm | Quadril: 104-110 cm",
+    "GG": "Tamanho 44 • Busto: 102-108 cm | Cintura: 84-90 cm | Quadril: 110-116 cm"
+  }
+}
