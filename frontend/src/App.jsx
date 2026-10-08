@@ -26,8 +26,8 @@ export default function App() {
     }
   })
 
-  // 3. VISUALIZAÇÃO ATIVA ('chat' = Chatbot Principal | 'store' = Loja Boutique)
-  const [activeView, setActiveView] = useState('chat')
+  // 3. VISUALIZAÇÃO ATIVA ('store' = Loja Boutique por padrão | 'chat' = Consultora Sofia IA)
+  const [activeView, setActiveView] = useState('store')
 
   // Aplica e sincroniza o tema no elemento HTML raiz
   useEffect(() => {
